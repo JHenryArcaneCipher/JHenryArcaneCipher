@@ -36,6 +36,5 @@ Currently focused on offensive security research, exploit development, and build
 - [arcanecipher.org](https://arcanecipher.org)
 - [Grimoire](https://arcanecipher.org/grimoire) — engagement writeups, research, and technique breakdowns
 - [Arsenal](https://arcanecipher.org/arsenal) — custom pentesting tools
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 
 ---
